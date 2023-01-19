@@ -1,0 +1,5 @@
+The folder on your computer will still be empty. Now do the following:
+
+Create a new .txt file, add a little bit of text to it.
+Save the .txt file in the same location of your repository (e.g. ~/Documents/yourname/test)
+Go back to Github desktop and commit your change.
